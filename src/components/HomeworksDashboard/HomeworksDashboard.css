@@ -1,0 +1,5 @@
+.HomeworksDashboard-Row {
+    display: flex;
+
+    justify-content: space-around;
+}
